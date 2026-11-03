@@ -45,7 +45,7 @@ This project analyses **5,901 retail transactions (2019–2020) across 21 attrib
 - Sales and profit by **category** and **sub-category**
 - Sales and profit by **customer segment**, including sales-to-profit ratio
 
-## 📊 Power BI Dashboard
+## 📊 Time Series Sales Forecasting with PowerBI
 
 <p align="center">
   <img src="images/sales_forecasting.png" width="900" alt="Regional Sales and 15-Day Sales Forecast">
@@ -120,6 +120,6 @@ The 15-day forecast comes from Power BI's built-in forecasting. Daily sales are 
 
 ## 👤 Author
 
-**[Your Name]**
+**Jayesh Vengurlekar**
 [LinkedIn](https://www.linkedin.com/in/jayesh-vengurlekar-80309214b/) · [GitHub](https://github.com/jaythecool) ·
 ---
